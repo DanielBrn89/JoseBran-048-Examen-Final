@@ -74,10 +74,10 @@ Evidencia: [terminal_resultado_1.png](evidencias/automatizacion/terminal_resulta
 
 ## Defectos encontrados
 
-| ID | Título | Severidad | Prioridad | Caso | Issue |
-|----|--------|-----------|-----------|------|-------|
-| BUG-001 | El registro rechaza una clave de 6 caracteres que cumple los criterios de HU-1 C2 | Alta | P1 | CP-02 | #1 |
-| BUG-002 | El perfil acepta una nueva clave de 8 caracteres aunque HU-2 C2 exige mínimo 10 | Alta | P2 | CP-04 | #2 |
+| ID | Título | Severidad | Prioridad | Caso | Evidencia |
+|----|--------|-----------|-----------|------|-----------|
+| BUG-001 | El registro rechaza una clave de 6 caracteres que cumple los criterios de HU-1 C2 | Alta | P1 | CP-02 | [CP-02_clave_6_caracteres.png](evidencias/automatizacion/CP-02_clave_6_caracteres.png) |
+| BUG-002 | El perfil acepta una nueva clave de 8 caracteres aunque HU-2 C2 exige mínimo 10 | Alta | P2 | CP-04 | [CP-04_2_resultado.png](evidencias/manuales/CP-04_2_resultado.png) |
 
 Detalle completo en [docs/Reporte_de_defectos.docx](docs/Reporte_de_defectos.docx) y en la carpeta de Drive.
 
